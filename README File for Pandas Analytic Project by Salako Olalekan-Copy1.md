@@ -87,13 +87,9 @@ Pandas Analytics datasets of Company XYZ gave me an opportunity to understand th
 ```
 # Screenshots
 <div>
-  <img style="margin:10px" height=400px width=400px src="https://github.com/Lekxite/project-screenshots/blob/main/capstone-screenshots/CityWithTheMostSales.png?raw=true" alt="Image of City With The Most Sales"/>
-  <img style="margin:10px" height=400px width=400px src="https://github.com/Lekxite/project-screenshots/blob/main/capstone-screenshots/MeanOfCostOfGoodSoldForEachCity.png?raw=true" alt="Image of Mean of Cost of Goods Sold for Each City"/>
-  <img style="margin:10px" height=400px width=400px src="https://github.com/Lekxite/project-screenshots/blob/main/capstone-screenshots/MeanOfCostOfGoodSoldForEachCity.png?raw=true" alt="Image of Mean of Cost of Goods Sold for Each City"/>
-  <img style="margin:10px" height=400px width=400px src="https://github.com/Lekxite/project-screenshots/blob/main/capstone-screenshots/MeanOfCostOfGoodSoldForEachCity.png?raw=true" alt="Image of Mean of Cost of Goods Sold for Each City"/>
-  <img style="margin:10px" height=400px width=400px src="https://github.com/Lekxite/project-screenshots/blob/main/capstone-screenshots/MeanOfCostOfGoodSoldForEachCity.png?raw=true" alt="Image of Mean of Cost of Goods Sold for Each City"/>
+  <img style="margin:15px" height=300px width=300px src="https://github.com/Lekxite/project-screenshots/blob/main/pandas-screenshots/Branch%20with%20Highest%20and%20Lowest%20Rating%20(1).png?raw=true" alt="Branch with Highest and Lowest Rating"/>
+  <img style="margin:15px" height=300px width=300px src="https://github.com/Lekxite/project-screenshots/blob/main/pandas-screenshots/City%20with%20The%20Most%20Sales.png?raw=true" alt="City with The Most Sales"/>
 </div>
-
 
 # Summary
 ```python
