@@ -87,8 +87,20 @@ Pandas Analytics datasets of Company XYZ gave me an opportunity to understand th
 ```
 # Screenshots
 <div>
-  <img style="margin:15px" height=300px width=300px src="https://github.com/Lekxite/project-screenshots/blob/main/pandas-screenshots/Branch%20with%20Highest%20and%20Lowest%20Rating%20(1).png?raw=true" alt="Branch with Highest and Lowest Rating"/>
-  <img style="margin:15px" height=300px width=300px src="https://github.com/Lekxite/project-screenshots/blob/main/pandas-screenshots/City%20with%20The%20Most%20Sales.png?raw=true" alt="City with The Most Sales"/>
+  <img style="margin:15px" height=300px width=300px src="https://github.com/Lekxite/project-screenshots/blob/main/pandas-screenshots/Sum%20of%20Cost%20of%20Good%20Sold%20for%20Each%20City.png?raw=true" alt="Sum of Cost of Good Sold"/>
+  <img style="margin:15px" height=300px width=300px src="https://github.com/Lekxite/project-screenshots/blob/main/pandas-screenshots/Mean%20of%20Cost%20of%20Good%20Sold%20for%20Each%20City.png?raw=true" alt="Mean of Cost of Good Sold"/>
+    <img style="margin:15px" height=300px width=300px src="https://github.com/Lekxite/project-screenshots/blob/main/pandas-screenshots/Sum%20of%20Gross%20Income%20for%20Each%20City.png?raw=true" alt="Sum of Gross Income for Each City"/>
+    <img style="margin:15px" height=300px width=300px src="https://github.com/Lekxite/project-screenshots/blob/main/pandas-screenshots/Unit%20Price%20for%20Each%20City.png?raw=true" alt="Unit Price for Each City"/>
+    <img style="margin:15px" height=300px width=300px src="https://github.com/Lekxite/project-screenshots/blob/main/pandas-screenshots/Quantity%20for%20Each%20City.png?raw=true" alt="Quantity for Each City"/>
+    <img style="margin:15px" height=300px width=300px src="https://github.com/Lekxite/project-screenshots/blob/main/pandas-screenshots/City%20with%20The%20Most%20Sales.png?raw=true" alt="City with The Most Sales"/>
+    <img style="margin:15px" height=300px width=300px src="https://github.com/Lekxite/project-screenshots/blob/main/pandas-screenshots/The%20Branch%20with%20Highest%20Sales%20Record.png?raw=true" alt="The Branch with Highest Sales Record"/>
+    <img style="margin:15px" height=300px width=300px src="https://github.com/Lekxite/project-screenshots/blob/main/pandas-screenshots/The%20Most%20used%20Payment%20Method.png?raw=true" alt="The Most used Payment Method"/>
+    <img style="margin:15px" height=300px width=300px src="https://github.com/Lekxite/project-screenshots/blob/main/pandas-screenshots/Most%20Sold%20Product%20line.png?raw=true" alt="Most Sold Product line"/>
+    <img style="margin:15px" height=300px width=300px src="https://github.com/Lekxite/project-screenshots/blob/main/pandas-screenshots/The%20Payment%20Channel%20used%20by%20Most%20Customers.png?raw=true" alt="The payment Channel used by Most Customers"/>
+    <img style="margin:15px" height=300px width=300px src="https://github.com/Lekxite/project-screenshots/blob/main/pandas-screenshots/The%20Highest%20Payment%20Channel%20for%20Each%20Branch.png?raw=true" alt="The Highest Payment Channel for Each Branch"/>
+    <img style="margin:15px" height=300px width=300px src="https://github.com/Lekxite/project-screenshots/blob/main/pandas-screenshots/Branch%20with%20Highest%20and%20Lowest%20Rating%20(1).png?raw=true" alt="Branch with Highest and Lowest Rating"/>
+    <img style="margin:15px" height=300px width=300px src="https://github.com/Lekxite/project-screenshots/blob/main/pandas-screenshots/Most%20Purchased%20Product%20Line.png?raw=true" alt="Most Purchased Product Line"/>
+    <img style="margin:15px" height=300px width=300px src="https://github.com/Lekxite/project-screenshots/blob/main/pandas-screenshots/Interaction%20of%20Unit%20Price%20&%20The%20Quantity%20of%20Goods%20Purchased.png?raw=true" alt="Interaction of Unit Price & The Quantity of Goods Purchased"/>
 </div>
 
 # Summary
