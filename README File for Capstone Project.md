@@ -127,3 +127,18 @@
   occured in Nigeria in 2020.
 ```
 # Conclusion:
+```python
+- The negative impact of the pandemic coronavirus disease on Nigeria's economy was so evident in
+  all the datasets analysed for this project.
+- The dataset from Nigeria Centre for Diseases and Control(NCDC), showed that covid-19 caused more
+  havoc in Lagos State more than all other states in Nigeria.
+- Also, the datasets obtained from John Hopkins University Center for Systems and Engineering
+  repository revealed that  Lagos State was much more affected by covid-19 in terms of Laboratory
+  confirmed cases, Recovered cases, and Death cases.
+- External datasets such as Budget data, RealGDP values, and Relationship between Population Density &
+  Laboratory Confirmed cases pointed to Lagos State as the one greatly affected by the virus.
+- Since Lagos State  is the powerhouse of Nigeria's economy, it is evident that anything affecting
+  the state also affects the whole economy. This largely attributed to country's economic meltdown
+  due to lockdown of various agencies in Lagos State and other parts of the country such as airports,
+  seaports, markets, schools, federal and state government parastatals etc.
+```   
