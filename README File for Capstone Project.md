@@ -84,20 +84,20 @@
 ```
 # Analysis:
 <div>
-  <img style="margin:15px" height=250px width=250px src="https://github.com/Lekxite/project-screenshots/blob/main/covid19-screenshots/Top%2010%20States%20with%20Lab%20Confirmed%20Cases.png?raw=true" alt="Top 10 States with Lab Confirmed Cases"/>
-  <img style="margin:15px" height=250px width=250px src="https://github.com/Lekxite/project-screenshots/blob/main/covid19-screenshots/Top%2010%20States%20with%20Smallest%20Lab%20Confirmed%20Cases.png?raw=true" alt="Top 10 States with Smallest Lab Confirmed Cases"/>
- <img style="margin:15px" height=250px width=250px src="https://github.com/Lekxite/project-screenshots/blob/main/covid19-screenshots/Top%2010%20States%20No%20of%20Discharged.png?raw=true" alt="Top 10 States No of Discharged Cases"/>
-  <img style="margin:15px" height=250px width=250px src="https://github.com/Lekxite/project-screenshots/blob/main/covid19-screenshots/Top%2010%20States%20with%20Smallest%20No%20of%20Discharged.png?raw=true" alt="Top 10 States with Smallest No of Discharged"/>
-  <img style="margin:15px" height=250px width=250px src="https://github.com/Lekxite/project-screenshots/blob/main/covid19-screenshots/Top%2010%20States%20No%20of%20Deaths.png?raw=true" alt="Top 10 States No of Deaths"/>
-  <img style="margin:15px" height=250px width=250px src="https://github.com/Lekxite/project-screenshots/blob/main/covid19-screenshots/Top%2010%20States%20with%20Lowest%20No%20of%20Deaths.png?raw=true" alt="Top 10 States with Lowest No of Deaths"/>
-  <img style="margin:15px" height=250px width=250px src="https://github.com/Lekxite/project-screenshots/blob/main/covid19-screenshots/Daily%20Confirmed%20Cases.png?raw=true" alt="Daily Confirmed Cases"/>
-  <img style="margin:15px" height=250px width=250px src="https://github.com/Lekxite/project-screenshots/blob/main/covid19-screenshots/Daily%20Recovered%20Cases.png?raw=true" alt="Daily Recovered Cases"/>
-  <img style="margin:15px" height=250px width=250px src="https://github.com/Lekxite/project-screenshots/blob/main/covid19-screenshots/Daily%20Death%20Cases.png?raw=true" alt="Daily Death Cases"/>
-  <img style="margin:15px" height=250px width=250px src="https://github.com/Lekxite/project-screenshots/blob/main/covid19-screenshots/Daily%20Infection%20Rate.png?raw=true" alt="Daily Infection Rate"/>
-  <img style="margin:15px" height=250px width=250px src="https://github.com/Lekxite/project-screenshots/blob/main/covid19-screenshots/Relationship%20Between%20Overall%20CCVI%20Index%20&%20Lab%20Confirmed%20Cases.png?raw=true" alt="Relationship Between Overall CCVI Index & Lab Confirmed Cases"/>
-  <img style="margin:15px" height=250px width=250px src="https://github.com/Lekxite/project-screenshots/blob/main/covid19-screenshots/Budget%20Adjustment%20in%2010%20Leading%20States.png?raw=true" alt="Budget Adjustment in 10 Leading States"/>
-  <img style="margin:15px" height=250px width=250px src="https://github.com/Lekxite/project-screenshots/blob/main/covid19-screenshots/Linear%20Relationship%20Between%20Population%20Density%20&%20Lab%20Confirmed%20Cases.png?raw=true" alt="Linear Relationship Between Population Density & Lab Confirmed Cases"/>
-  <img style="margin:15px" height=250px width=250px src="https://github.com/Lekxite/project-screenshots/blob/main/covid19-screenshots/RealGDP%20Values%20Before%20and%20During%20Covid-19.png?raw=true" alt="RealGDP Values Before and During Covid-19"/>
+  <img style="margin:15px" height=250px width=250px src="https://github.com/Lekxite/project-screenshots/blob/main/New-Capstone-Screenshots.md/Top%2010%20States%20with%20Smallest%20Lab%20Confirmed%20Cases.png?raw=true" alt="Top 10 States with Lab Confirmed Cases"/>
+  <img style="margin:15px" height=250px width=250px src="https://github.com/Lekxite/project-screenshots/blob/main/New-Capstone-Screenshots.md/Top%2010%20States%20with%20Smallest%20Lab%20Confirmed%20Cases.png?raw=true" alt="Top 10 States with Smallest Lab Confirmed Cases"/>
+ <img style="margin:15px" height=250px width=250px src="https://github.com/Lekxite/project-screenshots/blob/main/New-Capstone-Screenshots.md/Top%2010%20States%20with%20No%20of%20Discharged%20Cases.png?raw=true" alt="Top 10 States with No of Discharged Cases"/>
+  <img style="margin:15px" height=250px width=250px src="https://github.com/Lekxite/project-screenshots/blob/main/New-Capstone-Screenshots.md/Top%2010%20States%20with%20Smallest%20No%20of%20Discharged%20Cases.png?raw=true" alt="Top 10 States with Smallest No of Discharged Cases"/>
+  <img style="margin:15px" height=250px width=250px src="https://github.com/Lekxite/project-screenshots/blob/main/New-Capstone-Screenshots.md/Top%2010%20States%20with%20No%20of%20Death%20Cases.png?raw=true" alt="Top 10 States with No of Deaths Cases"/>
+  <img style="margin:15px" height=250px width=250px src="https://github.com/Lekxite/project-screenshots/blob/main/New-Capstone-Screenshots.md/Top%2010%20States%20with%20Smallest%20No%20of%20Death%20Cases.png?raw=true" alt="Top 10 States with Smallest No of Deaths Cases"/>
+  <img style="margin:15px" height=250px width=250px src="https://github.com/Lekxite/project-screenshots/blob/main/New-Capstone-Screenshots.md/Daily%20Confirmed%20Cases.png?raw=true" alt="Daily Confirmed Cases"/>
+  <img style="margin:15px" height=250px width=250px src="https://github.com/Lekxite/project-screenshots/blob/main/New-Capstone-Screenshots.md/Daily%20Recovered%20Cases.png?raw=true" alt="Daily Recovered Cases"/>
+  <img style="margin:15px" height=250px width=250px src="https://github.com/Lekxite/project-screenshots/blob/main/New-Capstone-Screenshots.md/Daily%20Death%20Cases.png?raw=true" alt="Daily Death Cases"/>
+  <img style="margin:15px" height=250px width=250px src="https://github.com/Lekxite/project-screenshots/blob/main/New-Capstone-Screenshots.md/Daily%20Infection%20Rate.png?raw=true" alt="Daily Infection Rate"/>
+  <img style="margin:15px" height=250px width=250px src="https://github.com/Lekxite/project-screenshots/blob/main/New-Capstone-Screenshots.md/Relationship%20Between%20Overall%20CCVI%20Index%20&%20Lab%20Confirmed%20Cases.png?raw=true" alt="Relationship Between Overall CCVI Index & Lab Confirmed Cases"/>
+  <img style="margin:15px" height=250px width=250px src="https://github.com/Lekxite/project-screenshots/blob/main/New-Capstone-Screenshots.md/Budget%20Adjustment%20in%2010%20Leading%20States.png?raw=true" alt="Budget Adjustment in 10 Leading States"/>
+  <img style="margin:15px" height=250px width=250px src="https://github.com/Lekxite/project-screenshots/blob/main/New-Capstone-Screenshots.md/Linear%20Relationship%20Between%20Population%20Density%20&%20Lab%20Confirmed%20Cases.png?raw=true" alt="Linear Relationship Between Population Density & Lab Confirmed Cases"/>
+  <img style="margin:15px" height=250px width=250px src="https://github.com/Lekxite/project-screenshots/blob/main/New-Capstone-Screenshots.md/RealGDP%20Values%20Before%20and%20During%20Covid-19.png?raw=true" alt="RealGDP Values Before and During Covid-19"/>
 </div>
 
 # Results:
@@ -108,18 +108,21 @@
 - Kogi State had the lowest No of Discharged people from covid-19
 - Lagos State recorded the highest No of Deaths of people with covid-19
 - Kogi State recorded the lowest No of Deaths of people with covid-19
-- The rate of daily Confirmed Cases of covid-19 was much higher in March, 2023
-- The rate of daily recovered cases of covid-19 started rising from July 2021 to August 2021.
-- The daily death cases from November 2022 to March 2023 remains the unchanged. There is no increase.
-- The Daily Infection Rate increases within 2 days from over 2000 to over 6000.
-- The Spike in Infection Rate occured between '2023-02-28'-'2023-03-01'.
+- The rate of daily confirmed cases increases as date progresses from January 2020 to May 2023.
+- The rate of daily recovered cases of covid-19 increases from January 2020 until September 2021
+  when it dropped sharply to the lowest level and maintained that level till May 2023.
+- The daily death cases increases gradually from January 2020 until January 2022 when
+  the death cases maintained the same highest level till May 2023.
+- The Daily Infection Rate was over 6000 cases. And this occured in January 2022.
+- The maximum infection rate for a day(number of new cases) was over 6000.
 - Negative Relationship exists between the Overall Community Vulnerability Index(CCVI) and
-  the Laboratory Confirmed Cases,
-  as the Overall CCVI Index decreases, Laboratory Confirmed Cases surge.
+  the Laboratory Confirmed Cases,as the Overall CCVI Index decreases,
+  Laboratory Confirmed Cases surge.
 - The initial budgets of States were revised and reduced due to the effects of covid-19.
-  And this had adverse effects on the economy
-- There was a positive relationship between Population and Laboratory Confirmed Cases. As Population
-  increases(denser population), more people were infected with covid-19 virus
+  And this had adverse effects on the economy.
+- There was a positive relationship between Population density and Laboratory Confirmed Cases.
+  As Population density increases(the denser the population density), more people were
+  infected with covid-19 virus
 - According to the analysis, the Real GDP values for all quarters of the years before the
   pandemic coronavirus disease, including 2019, were so healthy. However, in 2020, the Real
   GDP values in quarter 2 (Q2) dropped significantly. And to worsen the whole situation,
