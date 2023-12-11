@@ -134,7 +134,7 @@
 - The negative impact of the pandemic coronavirus disease on Nigeria's economy was so evident in
   all the datasets analysed for this project.
 - The dataset from Nigeria Centre for Diseases and Control(NCDC), showed that covid-19 caused more
-  havoc in Lagos State more than all other states in Nigeria.
+  havoc in Lagos State than all other states in Nigeria.
 - Also, the datasets obtained from John Hopkins University Center for Systems and Engineering
   repository revealed that  Lagos State was much more affected by covid-19 in terms of Laboratory
   confirmed cases, Recovered cases, and Death cases.
