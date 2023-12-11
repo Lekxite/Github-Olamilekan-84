@@ -84,7 +84,7 @@
 ```
 # Analysis:
 <div>
-  <img style="margin:15px" height=250px width=250px src="https://github.com/Lekxite/project-screenshots/blob/main/New-Capstone-Screenshots.md/Top%2010%20States%20with%20Smallest%20Lab%20Confirmed%20Cases.png?raw=true" alt="Top 10 States with Lab Confirmed Cases"/>
+  <img style="margin:15px" height=250px width=250px src="https://github.com/Lekxite/project-screenshots/blob/main/New-Capstone-Screenshots.md/Top%2010%20States%20with%20Lab%20Confirmed%20Cases.png?raw=true" alt="Top 10 States with Lab Confirmed Cases"/>
   <img style="margin:15px" height=250px width=250px src="https://github.com/Lekxite/project-screenshots/blob/main/New-Capstone-Screenshots.md/Top%2010%20States%20with%20Smallest%20Lab%20Confirmed%20Cases.png?raw=true" alt="Top 10 States with Smallest Lab Confirmed Cases"/>
  <img style="margin:15px" height=250px width=250px src="https://github.com/Lekxite/project-screenshots/blob/main/New-Capstone-Screenshots.md/Top%2010%20States%20with%20No%20of%20Discharged%20Cases.png?raw=true" alt="Top 10 States with No of Discharged Cases"/>
   <img style="margin:15px" height=250px width=250px src="https://github.com/Lekxite/project-screenshots/blob/main/New-Capstone-Screenshots.md/Top%2010%20States%20with%20Smallest%20No%20of%20Discharged%20Cases.png?raw=true" alt="Top 10 States with Smallest No of Discharged Cases"/>
