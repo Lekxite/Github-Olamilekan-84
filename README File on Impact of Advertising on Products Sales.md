@@ -1,15 +1,9 @@
-# Project Title: Nigeria COVID-19 Data Analysis Using Python
+# Project Title: Impact of Advertising on Products Sales
 # Introduction:
 ```python
-- Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus,
-  and it has affected major parts of the world. Nigeria, a West-African country, has also been
-  affected by the COVID-19 pandemic after recording its first case on 27th February 2020.
-- Nigeria is a country with 37 states - Federal Capital Territory included- and a fast-growing economic
-  environment with about 200 million citizens. COVID-19 has affected several country activities as the
-  country steadily progressed from its first case, to shutting down major airports, state-wide lockdown,
-  curfews, and reviving its economy.
-- The major aim of writing this report is to evaluate the negative impact of covid-19 on Nigeria's
-  economy and how the country managed to survive it.
+- This synthesized dataset was Created using Python programming language to Explore
+  the dynamics of advertising impact on product sales.
+-The dataset comprises seven columns representing advertising costs on various platforms — TV, Billboards,        Google Ads, Social Media, Influencer Marketing, and Affiliate Marketing. The last    column, 'Product_Sold' quantifies the corresponding number of units sold. This dataset is designed for analysis  and experimentation, allowing you to delve into the relationships between different advertising channels and     the resulting product sales. Gain insights into marketing strategies and optimize your approach using this       comprehensive, yet user-friendly dataset.
 ```
 # Analysis Questions:
 ```python
