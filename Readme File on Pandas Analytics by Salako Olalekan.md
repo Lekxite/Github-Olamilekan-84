@@ -124,7 +124,8 @@ f...Abuja had the highest sales of Health and beauty
 a...The Branch with Lowest Rating is Abuja
 b...The Branch with Highest Rating is Lagos
 - The Most Purchased Product line in Terms of Qty is Electronic Accessories
-- Based on the analysis, electronic accessories were the most sold Product line with a bit higher prices.
+- Based on the analysis, electronic accessories were the most sold Product line with
+  a bit higher prices.
 - Fashion accessories were so expensive and very little quantities were purchased.
 - Health and Beauty were the least sold Product line despite lower prices. 
 ```
